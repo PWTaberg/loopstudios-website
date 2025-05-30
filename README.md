@@ -13,8 +13,6 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -26,11 +24,17 @@ Users should be able to:
 
 ### Screenshot
 
-- TBD
+Desktop view:
+
+![Desktop view](./images/Desktop-image-1.jpg)
+
+Mobile view:
+
+![Mobile view](./images/Mobile-image-1.jpg)
 
 ### Links
 
-- TBD
+- Github pages URL: [loopstudios website](https://pwtaberg.github.io/loopstudios-website/)
 
 ## My process
 
